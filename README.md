@@ -1,1 +1,1 @@
-# Obsidian é maneiro
+# Obsidian é maneiro demais pelo celular
