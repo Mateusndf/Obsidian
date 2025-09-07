@@ -1,0 +1,1 @@
+1. Vários provedores de cloud como por exemplo AWS, AZURE, IBM

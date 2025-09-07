@@ -1,0 +1,1 @@
+Investimentos de longo prazo em ativos que trazem benefícios futuros para empresa 
