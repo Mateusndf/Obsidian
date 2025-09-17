@@ -15,3 +15,8 @@ Despesa operacional [[OpEx]]
 [[Iaas - Infrastructure as a Service]]
 [[PaaS - Platform as a Service]]
 [[SaaS - Software as a Service]]
+
+
+# Responsabilidade compartilhada na nuvem
+
+[[Divisão de responsabilidade]]
