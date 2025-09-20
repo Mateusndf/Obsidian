@@ -59,4 +59,5 @@ Despesa operacional [[OpEx]]
 
 ## Armazenamento
 
+ [[Contas de Armazenamento]]
  
