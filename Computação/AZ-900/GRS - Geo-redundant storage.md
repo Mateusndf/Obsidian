@@ -1,0 +1,3 @@
+- **O armazenamento com redundância geográfica (GRS)** copia seus dados de forma síncrona três vezes dentro de uma ou mais zonas de disponibilidade do Azure na região primária usando LRS. Em seguida, ele copia os dados de forma assíncrona para um único local físico na região secundária. Na região secundária, seus dados são copiados de forma síncrona três vezes usando o LRS.
+
+![[Pasted image 20250920155908.png]]
