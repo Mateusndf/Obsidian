@@ -57,3 +57,6 @@ Despesa operacional [[OpEx]]
 [[Serviços de aplicativos]] 
 [[Serviços de Rede do Azure]]
 
+## Armazenamento
+
+ 
