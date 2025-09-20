@@ -59,5 +59,7 @@ Despesa operacional [[OpEx]]
 
 ## Armazenamento
 
+![[Pasted image 20250920160415.png]]
+
  [[Contas de Armazenamento]]
  
