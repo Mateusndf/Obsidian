@@ -1,0 +1,3 @@
+https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/landing-zone/
+
+Uma Landing Zone é um ambiente preparado e organizado no Azure para hospedar seus aplicativos, dados e serviços. Ela não é só um "espaço vazio", mas vem com regras, ferramentas e configurações básicas para tornar tudo mais seguro, escalável e fácil de gerenciar. É como um kit de montagem para o seu setup na nuvem, baseado no Cloud Adoption Framework (um guia da Microsoft para adoção de nuvem).

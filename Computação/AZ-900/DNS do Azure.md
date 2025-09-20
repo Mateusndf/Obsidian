@@ -1,0 +1,1 @@
+O Sistema de Nomes de Domínio (DNS) é responsável por converter (ou resolver) um nome de serviço em um endereço IP. O DNS do Azure fornece hospedagem, resolução e balanceamento de carga de DNS para seus aplicativos usando a infraestrutura do Microsoft Azure.

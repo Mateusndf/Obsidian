@@ -1,0 +1,3 @@
+- Emulações de softwares de computadores físicos
+- Incui processador virtual, memória, armazenamento de rede
+- Ofertas [[Iaas - Infrastructure as a Service]] que oferece personalização e controle total

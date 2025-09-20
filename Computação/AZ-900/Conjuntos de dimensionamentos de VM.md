@@ -1,0 +1,1 @@
+Oferecem uma oportunidade de balanceamento de carga para dimensionar os recursos automaticamente

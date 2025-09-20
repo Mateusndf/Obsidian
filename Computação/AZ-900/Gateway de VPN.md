@@ -1,0 +1,1 @@
+Usado para enviar tráfego criptografado entre uma rede virtual do Azure e uma no local pela internet pública

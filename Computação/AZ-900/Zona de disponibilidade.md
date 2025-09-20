@@ -1,0 +1,1 @@
+Uma zona de disponibilidade é um agrupamento lógico de um ou mais datacenters fisicamente separados em uma região. Cada zona de disponibilidade é criada de uma maneira que, se algo der errado em uma (como uma interrupção de energia ou um problema de rede), as outras continuarão funcionando. Um único datacenter não oferece esse nível de proteção por conta própria.
