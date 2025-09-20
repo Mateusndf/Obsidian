@@ -2,3 +2,7 @@ Uma conta de armazenamento do Azure contém todos os seus objetos de dados do Ar
 
 Serviços suportados:
 ![[Pasted image 20250920152615.png]]
+
+[[LRS - Local redundancy storage]]
+[[ZRS - Zone-redundant storage]] 
+GRS - 
