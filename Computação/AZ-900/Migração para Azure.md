@@ -32,4 +32,9 @@ O AzCopy pode ser usado para copiar seus dados para, de ou entre contas de armaz
 
 #### Gerenciador de armazenamento do Azure
 
-- Interface gráfica do usu'ario
+- Interface gráfica do usuário
+- Compatível com Windows, MacOS e Linux
+#### Sincronização de Arquivos do Azure
+
+- Sincroniza os arquivos do Azure e locais de forma bidirecional
+- A camada de nuvem mantém os arquivos acessados com frequência no local, enquanto libera espaço
