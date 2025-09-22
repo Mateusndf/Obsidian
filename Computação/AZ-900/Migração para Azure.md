@@ -15,4 +15,21 @@ O Data Box é ideal para importar dados para o Azure em vários cenários, inclu
 
 - **Uploads periódicos** – quando uma grande quantidade de dados é gerada periodicamente e precisa ser movida para o Azure. Por exemplo, na exploração de energia, em que o conteúdo de vídeo é gerado em plataformas de petróleo e em produções de energia eólica.
 
+![[Pasted image 20250922070143.png]]
+
 https://learn.microsoft.com/pt-br/azure/databox/data-box-overview?pivots=dbx-ng
+
+#### AzCopy
+
+- Utilitário de linha de comando
+- Copiar Blobs ou arquivos de ou para a sua conta de armazenamento
+- Sincronizar em uma direção
+O AzCopy pode ser usado para copiar seus dados para, de ou entre contas de armazenamento do Azure. Os casos de uso comuns incluem:
+
+- Copiar dados de uma fonte local para uma conta de armazenamento do Azure
+- Copiar dados de uma conta de armazenamento do Azure para uma fonte local
+- Copiar dados de uma conta de armazenamento para outra conta de armazenamento
+
+#### Gerenciador de armazenamento do Azure
+
+- Interface gráfica do usu'ario
