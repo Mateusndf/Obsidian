@@ -63,4 +63,5 @@ Despesa operacional [[OpEx]]
 
  [[Contas de Armazenamento]]
  [[Camadas de acesso de armazenamento]]
+ [[Migração para Azure]]
  
