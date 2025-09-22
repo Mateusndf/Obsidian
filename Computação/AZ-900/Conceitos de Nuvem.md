@@ -62,4 +62,5 @@ Despesa operacional [[OpEx]]
 ![[Pasted image 20250920160415.png]]
 
  [[Contas de Armazenamento]]
+ [[Camadas de acesso de armazenamento]]
  
