@@ -65,4 +65,6 @@ Despesa operacional [[OpEx]]
  [[Camadas de acesso de armazenamento]]
  [[Migração para Azure]]
  
- 
+## Identidade, acesso e segurança
+
+[[Microsoft Entra ID]] 
