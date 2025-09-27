@@ -68,3 +68,4 @@ Despesa operacional [[OpEx]]
 ## Identidade, acesso e segurança
 
 [[Microsoft Entra ID]] 
+[[RBAC - Role Based Access Control]] 
