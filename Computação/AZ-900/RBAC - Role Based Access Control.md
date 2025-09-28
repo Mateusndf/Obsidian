@@ -1,0 +1,3 @@
+- Gerenciamento de acesso de granularidade fina
+- Divida as tarefas dentro da equipe e conceda somente a quantidade de acessos de que os usuários precisam para trabalhar
+- Habilite o acesso ao portal azure e o controle de acesso aos recursos 
