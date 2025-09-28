@@ -72,4 +72,5 @@ Despesa operacional [[OpEx]]
 
 ## Gerenciamento de custos 
 
+ [[Fatores que afetam custos]]
  
