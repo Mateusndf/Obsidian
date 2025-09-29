@@ -75,4 +75,5 @@ Despesa operacional [[OpEx]]
  [[Fatores que afetam custos]]
  [[Azure Marketplace]]
  [[Calculadora de preços]]
- 
+[[Gerenciamento de custos do Azure]]
+[[Marcas/TAGS]]
