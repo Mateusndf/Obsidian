@@ -77,3 +77,8 @@ Despesa operacional [[OpEx]]
  [[Calculadora de preços]]
 [[Gerenciamento de custos do Azure]]
 [[Marcas/TAGS]]
+
+
+## Governança e conformidade:
+
+[[Azure Policy]]
