@@ -83,3 +83,4 @@ Despesa operacional [[OpEx]]
 
 [[Azure Policy]]
 [[Bloqueio de recursos]]
+[[Portal de confiança do serviço]]
