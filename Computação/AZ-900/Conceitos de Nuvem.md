@@ -82,3 +82,4 @@ Despesa operacional [[OpEx]]
 ## Governança e conformidade:
 
 [[Azure Policy]]
+[[Bloqueio de recursos]]
