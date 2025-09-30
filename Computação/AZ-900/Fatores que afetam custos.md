@@ -1,0 +1,13 @@
+- Tipo de recurso:
+	- Custos são específicos de recurso
+- Consumo:
+	- Pago de acordo com o consumo(Pay as you go)
+	- o consumo é um dos maiores geradores de custo 
+- Manutenção:
+	- Monitorar o seu volume do Azure e manter seu ambiente pode ajudá-lo a identificar e reduzir os custos que não ão necessários, como desligar [[máquinas virtuais]] subutilizadas
+- Área Geográfica:
+	- O mesmo recurso pode ter valores diferentes em outras regiões
+- Tráfego de rede:
+	- Embora algumas transferências de dados de entrada sejam gratuitas, o custo de saída ou dados entre recursos do Azure é afetado por zonas de cobrança
+- Assinatura:
+	- O tipo e a configuração da assinatura tabém podem afetar nos custos

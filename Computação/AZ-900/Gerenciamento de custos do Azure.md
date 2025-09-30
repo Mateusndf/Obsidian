@@ -1,0 +1,5 @@
+- Relatório de cobrança
+- Enriquecimento de dados
+- Orçamentos: definir orçamentos de gastos
+- Alertas: quando o custo excede limites
+- Recomendação: recomendações de custos
