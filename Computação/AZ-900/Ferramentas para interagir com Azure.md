@@ -1,0 +1,4 @@
+- Portal Azure
+- Azure Cloud Shell
+- Azure PowerShell
+- Interface de linha de comando (CLI)
