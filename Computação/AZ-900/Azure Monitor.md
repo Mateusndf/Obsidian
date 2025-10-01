@@ -1,0 +1,3 @@
+https://learn.microsoft.com/pt-br/azure/azure-monitor/
+
+O Azure Monitor é uma solução de monitoramento abrangente para coletar, analisar e responder à dados de monitoramento dos ambientes de nuvem e locais. Você pode usar o Azure Monitor para maximizar a disponibilidade e o desempenho de seus aplicativos e serviços. Ele ajuda você a entender como seus aplicativos estão sendo executados e permite que você responda manual e programaticamente a eventos do sistema.
