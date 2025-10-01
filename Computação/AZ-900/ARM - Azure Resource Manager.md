@@ -6,3 +6,4 @@ Quando você envia uma solicitação por meio de qualquer uma das APIs, das ferr
 ![[Pasted image 20251001070259.png]]
 
 [[Modelos do ARM]]
+[[Bicep]] 
