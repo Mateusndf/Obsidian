@@ -1,0 +1,1 @@
+O Portal de Confiança do Serviço Microsoft fornece uma variedade de conteúdos, ferramentas e outros recursos sobre como os serviços cloud da Microsoft protegem os seus dados e como pode gerir a segurança e conformidade de dados na cloud para a sua organização.
