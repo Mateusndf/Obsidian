@@ -1,0 +1,6 @@
+- Rehost (Lift-and-Shift);
+- Refactor (ajustes)
+- Replatform (Mudar Infra)
+- Rewrite (Reescrever do zero)
+- Replace (Substituir por [[SaaS - Software as a Service]]/Novo Sistema)
+-

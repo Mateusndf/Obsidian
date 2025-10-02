@@ -1,0 +1,1 @@
+Identificar quais são essenciais para o negócio e quais podem ser desativadas/substituidas

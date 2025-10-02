@@ -4,3 +4,4 @@ Modernização de sistemas é o processo de transformar sistemas e aplicações 
 
 [[Discovery]]
 [[Classificação de Criticidade]]
+[[Estratégia de modernização]]
