@@ -6,7 +6,7 @@ Recursos podem não estar disponíveis em todas as regiões
 
 Azure hoje contém abrangência global estando em mais de 60 paises 
 
-Regiões são compostas de um ou mais datacenters que podem estar dentro de uma [[Zona de disponiobilidade]] 
+Regiões são compostas de um ou mais datacenters que podem estar dentro de uma [[Zona de disponibilidade]]
 ![[Pasted image 20250917174130.png]]
 
 Regiões fornecem flexibilidade e escala para reduzir latência do cliente
